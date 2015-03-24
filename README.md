@@ -1,0 +1,1 @@
+## Starting of example repository for git flow testing
