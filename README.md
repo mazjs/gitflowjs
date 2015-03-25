@@ -1,1 +1,1 @@
-## Starting of example repository for git flow testing
+## Starting of example repository for git flow testi
